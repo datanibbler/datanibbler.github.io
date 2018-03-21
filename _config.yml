@@ -27,5 +27,3 @@ github:
 plugins:
   - jekyll-gist
   - jekyll-paginate
-
-theme: jekyll-theme-cayman
